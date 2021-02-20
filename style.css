@@ -462,7 +462,7 @@ p {
     height: 70%;
     transform: rotate(-30deg);
     object-fit: cover;
-    background-image: url('img/botle.png');
+    background-image: url('img/spun.png');
     background-size: contain;
     background-repeat: no-repeat;
     animation: botle_shadow 3s linear;
